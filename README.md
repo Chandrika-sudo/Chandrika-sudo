@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Fraud detection ML models<br>I am looking to collaborate on MERN Stack with ML integartions and Data Analytics<br>I am looking to help with database optimization, authentication flows, React UI consistency, and applying ML models to practical applications.<br>I am currently learning system design cloud deployment best practices, and deeper machine learning workflows using PyTorch and Transformers.<br>Ask me about MERN stack development, REST APIs, JWT & OAuth authentication, MongoDB optimization, GCP services, ML model integration, and DSA fundamentals.<br>I enjoy turning messy ideas into clean systems whether it’s code, projects, or a team plan.
+I am currently working on RAG models<br>I am looking to collaborate on MERN Stack with ML integartions and Data Analytics<br>I am looking to help with database optimization, authentication flows, React UI consistency, and applying ML models to practical applications.<br>I am currently learning system design cloud deployment best practices, and deeper machine learning workflows using PyTorch and Transformers.<br>Ask me about MERN stack development, REST APIs, JWT & OAuth authentication, MongoDB optimization, GCP services, ML model integration, and DSA fundamentals.<br>I enjoy turning messy ideas into clean systems whether it’s code, projects, or a team plan.
 
 
 ## 🌐 Socials:
